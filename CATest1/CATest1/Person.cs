@@ -8,6 +8,6 @@ namespace CATest1
 {
     public class Person
     {
-        
+        public int Age {get; set;}
     }
 }
