@@ -12,6 +12,7 @@ namespace CATest1
         public string Name {get; set;}
         public string SurName2 {get; set;}
         public string SurName4 {get; set;}
+        public string SurName5 {get; set;}
 
     }
 }
